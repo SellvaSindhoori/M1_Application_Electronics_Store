@@ -1,5 +1,12 @@
 # M1_Application_Electronics_Store
-Electronics Store Management System
+## BADGES
+
+|Codacy Badge|Code Quality|Code Grade|Unity|[Git Inspector](using github.io option)
+|-----:|-----:|-----:|-----:|-----:|
+|(https://app.codacy.com/project/badge/Grade/e2d1f08d45014a3a8d6c714ecb3a51c8)](https://www.codacy.com/gh/SellvaSindhoori/M1_Application_Electronics_Store/dashboard?utm_source=github.com&amp;utm_medium=referral&amp;utm_content=SellvaSindhoori/M1_Application_Electronics_Store&amp;utm_campaign=Badge_Grade)|https://api.codiga.io/project/29904/score/svg ; https://api.codiga.io/project/29904/status/svg|
+
+
+
 ## ELECTRONIC STORE MANAGEMENT SYTEM
 The main aim of this project is to help the electronic store vendors to maintain and manage the billing system of the store.The Simple Electronic Store Billing System is a project that can manage the billing for your electronics store. This system can help you manage the transaction within your store. The purpose of the system is to help and maintain the managing of bill record.In the world today where economy, productivity and all such related factors are growing, even the ordinary shops are also growing. Every day their business is growing, their agencies and the products they ship go on increasing. With this as the case, the shopkeeper just can’t remember where he has stored each item in his shop, what the cost of each product is and what categories each of them belong to and much more. So in my project, I have taken a specific case of an Electronic Store where several categories of electronic components will be available and also print the bill so that the shopkeeper can easily maintain his shop and handle many users at small time.
 
@@ -36,3 +43,5 @@ This whole Electronics Store billing system project is developed using C Program
 2. Geeksforgreeks
 3. Git inspector
 4. Github workflow
+r
+
